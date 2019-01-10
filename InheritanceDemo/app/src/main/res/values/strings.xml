@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InheritanceDemo</string>
+    <string name="calculate_circle_area">Calculate Circle Area</string>
+    <string name="calculate_square_area">Calculate Square Area</string>
+    <string name="calculate_area_of_rectangle">Calculate Area of Rectangle</string>
+    <string name="null_check">null check</string>
+</resources>
